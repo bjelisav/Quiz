@@ -1,0 +1,20 @@
+#option1, #option2, #option3, #option4 {
+  width: 300px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 30px;
+  text-align: center;
+  background: #a8b1b1;
+  color: #080608;
+  border: 1px solid #184750;
+  display: inline-block;
+  margin: 5px 5px;
+  border-radius: 5px; }
+  #option1:hover, #option2:hover, #option3:hover, #option4:hover {
+    background: #7aff7e; }
+
+#wrapper {
+  text-align: center;
+  margin-bottom: 30px; }
+
+/*# sourceMappingURL=main.css.map */
