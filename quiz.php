@@ -17,6 +17,7 @@ include('header.php');
  </div>
  <div class="container">
    <button type="button" id="confirm" class="btn btn-default col-lg-6 col-lg-offset-3 text-center">Confirm</button>
+   <a href="index.php" type="button" id="start" class="btn btn-default col-lg-6 col-lg-offset-3 text-center">Start Again</a>
  </div>
 
 

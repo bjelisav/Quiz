@@ -1,3 +1,3 @@
 <?php
-$db = mysqli_connect("localhost","root","","quizphp") or die("BAZA NE RADI!!!");
+$db = mysqli_connect("localhost","root","","quizdb") or die("BAZA NE RADI!!!");
  ?>
